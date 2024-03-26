@@ -1,1 +1,3 @@
 sekito
+
+puts "hello"
