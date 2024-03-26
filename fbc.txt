@@ -1,5 +1,4 @@
 sekito
-
 puts "hello"
 
 なんでー
