@@ -2,3 +2,5 @@ sekito
 puts "hello"
 
 なんでー
+
+puts "why"
